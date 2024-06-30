@@ -5,7 +5,7 @@ Welcome to **"Predicting Stars, Galaxies, and Quasars with ML"**, a project wher
 
 ## About This Project
 
-Are you fascinated by the universe and the treasures it holds?  This project brings these two worlds together by applying machine learning techniques to classify cosmic bodies such as stars, galaxies, and quasars.
+Are you fascinated by the universe and the treasures it holds?  This project brings these two worlds together by applying machine learning techniques to classify cosmic bodies such as stars, galaxies, and quasars using the data set [Sloan Digital Sky Survey DR14](https://www.kaggle.com/datasets/lucidlenn/sloan-digital-sky-survey).
 
 ## Project Overview
 
