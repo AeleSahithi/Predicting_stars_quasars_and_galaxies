@@ -13,16 +13,14 @@ Are you fascinated by the universe and the treasures it holds?  This project bri
 - **Astronomical Basics**: Understand the characteristics of different celestial objects essential for working with astronomical data.
 
 ### Data Handling Skills
-- **Data Preprocessing**: Learn how to clean, manipulate, and preprocess large datasets typical of astronomical data collection efforts.
+- **Data Preprocessing**:  cleaning , manipulating , and preprocessing datasets typical of astronomical data collection efforts.
 
 ### Machine Learning Techniques
-- **Algorithm Mastery**: Dive deep into machine learning algorithms and learn how they can be trained to categorize vast and complex cosmic datasets.
+- **Algorithm Mastery**: Diving into machine learning algorithms and  training  to categorize vast and complex cosmic datasets.
 
 ### Model Evaluation
-- **Performance Validation**: Master techniques for validating the performance of your machine learning models, ensuring accurate and reliable classification results.
+- **Performance Validation**: techniques for validating the performance of your machine learning models, ensuring accurate and reliable classification results.
 
-### Real-world Application
-- **Practical Experience**: Apply your skills to a project that mirrors real-world tasks faced by astrophysicists and data scientists in the field.
 
 ---
 
